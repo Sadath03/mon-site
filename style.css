@@ -215,6 +215,9 @@ footer {
   .service section {
     padding: 0;
   }
+  .image p{
+    text-align:center;
+  }
   #contacts .contact iframe {
     height: 30rem;
     width: 100%;
